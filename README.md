@@ -2,7 +2,7 @@
 
 ![Robotic Hand Demo](https://a-amansharma.vercel.app/images/robotics/hand/6.gif)
 
----
+---![alt text](image.png)
 
 ## 📌 Project Overview
 
