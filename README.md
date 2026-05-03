@@ -3,7 +3,7 @@ Robotic hand controlled using hand gesture
 =======
 # 🤖 Robotic Hand Gesture Control
 
-https://a-amansharma.vercel.app/images/robotics/hand/6.gif
+![image.gif](https://a-amansharma.vercel.app/images/robotics/hand/6.gif)
 
 ## 📌 Overview
 This project controls a robotic hand using hand gestures captured via webcam.
