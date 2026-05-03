@@ -109,7 +109,7 @@ B.Sc CS (AI) Student
 
 ---
 
-# Linkdln Post
+# Linkedln Post
 [Click to view](https://www.linkedin.com/posts/a-amansharma_robotics-innovation-teamwork-activity-7379071790259810304-VtCJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFMR2VIBzWcU732Hl1HiRdej_YmWsRI29oo)
 
 ---
