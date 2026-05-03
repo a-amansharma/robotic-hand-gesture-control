@@ -101,8 +101,14 @@ robotic-hand-gesture-control/
 ## 👨‍💻 Author
 
 **Aman Sharma**
-B.Tech CSE (AI) Student
+B.Sc CS (AI) Student
 
+---
+# Instagram post
+[Click to view](https://www.instagram.com/p/DPZOIejErI8/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+
+# Linkdln Post
+[Click to view](https://www.linkedin.com/posts/a-amansharma_robotics-innovation-teamwork-activity-7379071790259810304-VtCJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFMR2VIBzWcU732Hl1HiRdej_YmWsRI29oo)
 ---
 
 ## ⭐ Support
